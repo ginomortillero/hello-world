@@ -1,2 +1,1 @@
-# hello-world
-world of hello repository
+This is a test readme file
